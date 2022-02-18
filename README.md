@@ -6,3 +6,7 @@ DISCLAIMER: THIS PATCHER IS AN AUDIO PATCHER BATCH FILE CREATED TO UPDATE GENSHI
 For steps on how to use this batch file, please check my Gitbook repository at https://gameryuan.gitbook.io/update-fixes/
 
 Any questions about this project, please direct it to the Genshin Impact Official Discord Server's #technical-help channel, or leave a comment on one of my HoYoLAB posts https://www.hoyolab.com/accountCenter/postList?id=36639475
+
+Credits:
+Thank you CanRanBan for creating and debugging the batch file
+GIODS TH Team members: Gallepan, paep3nguin, MrBMT, Adeptus, Aeyr, Chii-Chan, AquaRose, Zellith, Himeko, GamerYuan, CanRanBan, Yuni
